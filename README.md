@@ -24,7 +24,7 @@ DocumentationPractice/
 └── README.md
 
 ## 👨‍💻 Kontributor
-- Moch Rafly Ilhamsyah
+- Aghnaf Farhan Bima Arya
 
 ## 📄 Lisensi
 Proyek ini menggunakan lisensi MIT.
